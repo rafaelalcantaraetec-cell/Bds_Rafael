@@ -1,1 +1,2 @@
-# Bds_Rafael
+  Nesse primeiro projeto, criei um Banco de Dados para um Supermercado, onde o foco primeiramente foi organizar os colaboradores em seus setores e turnos.
+  Usando o MySql e dados ficticios, povoei as tabelas com dados o suficiente para mais tarde, linkar a base de dados ao Power BI, para mostrar algumas métricas e gráficos para, elencar ao estudo de Banco de Dados, o estudo de criação de Dashboards.
